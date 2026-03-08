@@ -24,21 +24,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva172&theme=tokyonight&show_icons=true&include_all_commits=true)
-
----
-
 ## 📈 Activity Graph
 
 [![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atharva172&theme=tokyo-night)](https://github.com/atharva172)
 
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=atharva172&theme=tokyonight)
+
 ---
 
-## 🧠 Top Languages
+## 🐍 Contribution Snake
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva172&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/atharva172/atharva172/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
