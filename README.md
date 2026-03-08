@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.render.com/api?username=atharva172&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva172&theme=tokyonight&show_icons=true&include_all_commits=true)
 
 ---
 
