@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atharv
+# Hi 👋, I'm Atharva
 
 💻 Full Stack Developer (Learning & Building)  
 🚀 Currently working with **Node.js, Express, React**  
