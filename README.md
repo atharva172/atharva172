@@ -30,9 +30,9 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Activity Graph
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=atharva172&theme=tokyonight)
+[![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atharva172&theme=tokyo-night)](https://github.com/atharva172)
 
 ---
 
