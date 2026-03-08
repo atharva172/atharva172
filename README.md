@@ -37,7 +37,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/atharva172/atharva172/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/atharva172/atharva172/output/github-contribution-grid-snake.svg)
 
 ---
 
